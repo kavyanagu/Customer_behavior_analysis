@@ -3,15 +3,9 @@
 This project analyzes customer purchasing patterns to uncover actionable insights that can support business decision-making and improve customer experience. It combines data processing, database querying, and interactive visualization using Python, SQL, and Power BI.
 # Dataset
 The dataset contains customer-related information such as:
-  Demographics (age, gender)
-  Purchase behavior (purchase amount, frequency)
-  Subscription status
-  Shipping type and preferences
+  Demographics (age, gender), Purchase behavior (purchase amount, frequency), Subscription status, Shipping type and preferences
 # Tools & Technologies
-  Python – Data loading, cleaning, and exploratory data analysis (EDA)
-  SQL (PostgreSQL) – Data storage and analytical queries
-  Power BI – Interactive dashboards and visualization
-  Gamma – Presentation (PPT) creation
+  Python – Data loading, cleaning, and exploratory data analysis (EDA), SQL (PostgreSQL) – Data storage and analytical queries, Power BI – Interactive dashboards and visualization, Gamma – Presentation (PPT) creation
 # Project Workflow
 1. Data Loading (Python)
   Imported dataset using Pandas
